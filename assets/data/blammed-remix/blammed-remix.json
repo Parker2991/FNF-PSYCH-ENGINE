@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "arcade bf",
-		"player2": "uberpico",
+		"player1": "bf",
+		"player2": "pico",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -5743,7 +5743,7 @@
 			]
 		],
 		"player3": null,
-		"song": "Blammed REMix",
+		"song": "blammed-remix",
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "philly",
